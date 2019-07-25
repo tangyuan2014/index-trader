@@ -1,0 +1,6 @@
+server:
+  port: 8080
+spring:
+  profiles:
+customize:
+  baseUrl: "https://modularfinance.se/static/files/puzzles/index-trader.json"
